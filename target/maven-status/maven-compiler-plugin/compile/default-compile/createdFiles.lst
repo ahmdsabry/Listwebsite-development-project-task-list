@@ -1,0 +1,13 @@
+com\mycompany\webone\JakartaRestConfiguration.class
+NewServlet.class
+org\example\Summerization.class
+UserDao.class
+Model.class
+NoteDao.class
+com\mycompany\webone\resources\JakartaEE10Resource.class
+Note.class
+org\example\ErrorParapraph.class
+CheckDoneServlet.class
+DeleteTaskServlet.class
+User.class
+org\example\ParagraphException.class
